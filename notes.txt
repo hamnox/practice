@@ -1,0 +1,116 @@
+FIVE ALG APPROACHES:
+Can I follow a concrete example?
+Does this remind me of a different problem?
+Can I solve a simpler problem?
+How does this work for the simplest case?
+List and try data structures.
+
+
+Solving Tree
+    Hello World
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+            by Aug 8th
+    Array (Min: Make, Access, Destroy)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+    Strings (MAD)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+            1-4 correctly deals with expected and unexpected inputs
+            1-4 least time, least space (big O analysis, benchmarks)
+            1-4 simple: fewer lines, written quickly
+            1-4 readable, understandability by others even!
+            1-4 would know how to adapt to later changes
+            1-4 break code into subroutines, modules
+            1-4 uses data structures to link data
+                Eval Code
+                    [] Rust
+                    [] C++
+                    [] Java
+                    [] Python
+                    [] JS
+    Singly Linked List (MAD)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+    Doubly Linked List (MAD)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+            1-4 correctly deals with expected and unexpected inputs
+            1-4 least time, least space (big O analysis, benchmarks)
+            1-4 simple: fewer lines, written quickly
+            1-4 readable, understandability by others even!
+            1-4 would know how to adapt to later changes
+            1-4 break code into subroutines, modules
+            1-4 uses data structures to link data
+                Eval Code
+                    [] Rust
+                    [] C++
+                    [] Java
+                    [] Python
+                    [] JS
+    Stack (LIFO)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+    Queue (FIFO)
+        [] Rust
+        [] C++
+        [] Java
+        [] Python
+        [] JS
+        
+        
+
+Notes:
+
+https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial/Preamble
+haskell files end in .hs, are compiled with ghc --make file.hs -o outputname
+    can be interactive written with ghci
+
+http://www.cplusplus.com/doc/tutorial/
+C++ files end in .cpp, and are compiled with g++, run as ./file_name
+    to compile all of the source files without linking:
+    g++ -c file1.cpp
+    g++ -c file2.cpp
+    g++ -c file3.cpp
+
+    Link your final executable:
+    g++ file1.o file2.o file3.o
+
+    You can use an optional -o flag to specify the output program name.
+    It probably defaults to a.out.
+
+https://doc.rust-lang.org/stable/book/
+rust files end in .rs, and go in the src folder.
+    must include a .toml file, which is like an ini.
+    under [package] goes name = "name", version = "#.#.#", and authors = ["name <@>"]
+    under [dependencies] goes cratename="#.#.#"
+
+    they are compiled with cargo build, run with cargo run
+
+http://www.tutorialspoint.com/java/java_basic_syntax.htm
+java files end in .java and are compiled with javac, run with java filename
+
+http://www.tutorialspoint.com/python/python_quick_guide.htm
+python files end in .py and are run with python
+
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+javascript file ends in .js and are run with jsc
