@@ -1,0 +1,8 @@
+
+cpp/hello_world
+haskell/hello_world
+
+*.o
+
+*.hi
+*.class
