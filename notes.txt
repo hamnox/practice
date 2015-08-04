@@ -8,11 +8,11 @@ List and try data structures.
 
 Solving Tree
     Hello World
-        [ ] Rust
+        [x+] Rust
         [x] C++
-        [ ] Java
-        [ ] Haskell
-        [ ] Python
+        [x] Java
+        [x+] Haskell
+        [x] Python
         [x] JS
             by Aug 8th
     Array (Min: Make, Access, Destroy)
