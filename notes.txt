@@ -13,7 +13,7 @@ Solving Tree
         [ ] Java
         [ ] Haskell
         [ ] Python
-        [ ] JS
+        [x] JS
             by Aug 8th
     Array (Min: Make, Access, Destroy)
         [ ] Rust
