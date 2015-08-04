@@ -4,5 +4,7 @@ haskell/hello_world
 
 *.o
 
+*.pyc
+
 *.hi
 *.class
