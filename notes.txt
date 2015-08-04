@@ -8,24 +8,27 @@ List and try data structures.
 
 Solving Tree
     Hello World
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
             by Aug 8th
     Array (Min: Make, Access, Destroy)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
     Strings (MAD)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
             1-4 correctly deals with expected and unexpected inputs
             1-4 least time, least space (big O analysis, benchmarks)
             1-4 simple: fewer lines, written quickly
@@ -34,23 +37,25 @@ Solving Tree
             1-4 break code into subroutines, modules
             1-4 uses data structures to link data
                 Eval Code
-                    [] Rust
-                    [] C++
-                    [] Java
-                    [] Python
-                    [] JS
+                    [ ] Rust
+                    [ ] C++
+                    [ ] Java
+                    [ ] Python
+                    [ ] JS
     Singly Linked List (MAD)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
     Doubly Linked List (MAD)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
             1-4 correctly deals with expected and unexpected inputs
             1-4 least time, least space (big O analysis, benchmarks)
             1-4 simple: fewer lines, written quickly
@@ -59,23 +64,25 @@ Solving Tree
             1-4 break code into subroutines, modules
             1-4 uses data structures to link data
                 Eval Code
-                    [] Rust
-                    [] C++
-                    [] Java
-                    [] Python
-                    [] JS
+                    [ ] Rust
+                    [ ] C++
+                    [ ] Java
+                    [ ] Haskell
+                    [ ] Python
+                    [ ] JS
     Stack (LIFO)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Python
+        [ ] JS
     Queue (FIFO)
-        [] Rust
-        [] C++
-        [] Java
-        [] Python
-        [] JS
+        [ ] Rust
+        [ ] C++
+        [ ] Java
+        [ ] Haskell
+        [ ] Python
+        [ ] JS
         
         
 
