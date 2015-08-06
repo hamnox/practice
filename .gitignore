@@ -2,8 +2,8 @@
 rust/**/target/**
 rust/**/Cargo.lock
 
-cpp/hello_world
-haskell/hello_world
+cpp/*.out
+haskell/*.out
 
 *.o
 

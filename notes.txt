@@ -16,7 +16,7 @@ Solving Tree
         [x] JS
             by Aug 8th
     Array (Min: Make, Access, Destroy)
-        [ ] Rust
+        [x] Rust
         [ ] C++
         [ ] Java
         [ ] Haskell
