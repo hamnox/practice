@@ -27,3 +27,33 @@ fn access_arrays() {
      assert_eq!(&zombies[2][1..], ["samson"]);
 }
 
+// fn delete_arrays() {} // unneccessary
+
+// #[test]
+// #[should_panic(expected = "expected constant integer for repeat count, found variable")]
+// 
+// fn test_runtime_arrays() {
+//     use std::io;
+//     let mut buffer = String::new();
+// 
+//     loop{
+//         print!("Give me an int");
+//         io::stdin().read_line(&mut buffer)
+//             .ok()
+//             .expect("Bad read");
+//             // probably don't need the .ok.expect("error") if not returning
+// 
+//         // let x = buffer as i32; // this attempt failed
+//         let array_size: usize = buffer.trim().parse()
+//             .unwrap_or(0);
+//         if (array_size <= 0) {
+//             println!("Please input an integer");
+//             continue;
+//         }
+//         let my_array = [0; array_size];
+//         
+//         break;
+//     }
+// 
+// 
+// }
